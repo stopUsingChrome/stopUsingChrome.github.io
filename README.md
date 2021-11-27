@@ -1,1 +1,1 @@
-# stopUsingChrome.github.io
+# Stop Using Chrome
